@@ -9,4 +9,4 @@
 ## Compilación y Ejecución
 Para compilar y ejecutar el programa:
 
-`gcc hello.c -std=c18 -o hello.exe`
+`gcc hello.c -std=c23 -o hello`
